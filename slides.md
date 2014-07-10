@@ -122,3 +122,10 @@ What if we do not want C2, C3 *and* C4?
 <p style="text-align:center">
 ![](interactive-rebase.png)
 </p>
+
+--
+
+### "But I don't like VIM!!!1"
+
+1. You should learn vim
+1. https://github.com/github/gitpad

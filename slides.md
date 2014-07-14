@@ -4,6 +4,7 @@ author:
   twitter: itsananderson
   url: http://willi.am
 output: index.html
+theme: sudodoki/reveal-cleaver-theme
 
 --
 
@@ -20,7 +21,7 @@ Follow along:
 
 http://willi.am/git-fundamentals-rebasing/
 
-https://github.com/itsananderson/rebase-examples
+https://github.com/itsananderson/rebase-examples/
 
 --
 
